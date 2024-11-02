@@ -1,1 +1,1 @@
-# Domácí úkoly pro 4.E od Johny Lány
+# Domácí úkoly pro 4.E od Johnyho Lány
