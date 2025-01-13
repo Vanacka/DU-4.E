@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Graf implements Serializable {
-    private Map<String, Vrchol> seznamVrcholu;
+    public Map<String, Vrchol> seznamVrcholu;
 
     public Graf() {
         this.seznamVrcholu = new HashMap<String, Vrchol>();

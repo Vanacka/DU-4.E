@@ -6,8 +6,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Vrchol implements Serializable {
-    private String jmeno;
-    private Set<Vrchol> sousede;
+    public String jmeno;
+    public Set<Vrchol> sousede;
 
 
     Vrchol(String jmeno) {
